@@ -1,4 +1,4 @@
-# Java Piscine Day 01
+# Java Piscine Day 00
 
 ## Primitive Types, I/O, Strings, Arrays
 
@@ -9,40 +9,42 @@ An introduction to Java's type system and fundamental building blocks. All exerc
 ## 📋 Project Structure
 
 ```
-Day0x/
-│   ├── ex00/
-│   │   ├── ex00_subject.md
-│   │   └── Program.java
-│   ├── ex01/
-│   │   ├── ex01_subject.md
-│   │   └── Program.java
-│   ├── ex02/
-│   │   ├── ex02_subject.md
-│   │   └── Program.java
-│   ├── ex03/
-│   │   ├── ex03_subject.md
-│   │   └── Program.java
-│   ├── ex04/
-│   │   ├── ex04_subject.md
-│   │   └── Program.java
-│   └── ex05/
-│       ├── ex05_subject.md
-│       └── Program.java
-└── ...
+Day00/
+├── ex00
+│   ├── Program.java
+│   └── README.md
+├── ex01
+│   ├── Program.java
+│   └── README.md
+├── ex02
+│   ├── Program.java
+│   └── README.md
+├── ex03
+│   ├── Program.java
+│   └── README.md
+├── ex04
+│   ├── Program.java
+│   └── README.md
+├── ex05
+│   ├── Program.java
+│   └── README.md
+└── README.md
+
+7 directories, 13 files
 ```
 
 ---
  
-## Day 01 — Primitive Types, I/O, Strings, Arrays
+## Day 00 — Primitive Types, I/O, Strings, Arrays
  
 An introduction to Java's type system and fundamental building blocks. All exercises are constrained to primitive types, basic I/O, and standard operators — no user-defined classes or non-static methods allowed.
  
 | Exercise | Description |
 |----------|-------------|
-| ex00 | Compute the digit sum of a hardcoded 6-digit integer |
-| ex01 | Check primality and count iterations, with input validation |
-| ex02 | Count how many numbers in a stream have a prime digit sum |
-| ex03 | Visualize weekly student grades as a horizontal bar chart |
-| ex04 | Frequency analysis of characters displayed as a vertical histogram |
-| ex05 | MVP class timetable with student registration, scheduling, and attendance |
+| [ex00](ex00/README.md) | Compute the digit sum of a hardcoded 6-digit integer |
+| [ex01](ex01/README.md) | Check primality and count iterations, with input validation |
+| [ex02](ex02/README.md) | Count how many numbers in a stream have a prime digit sum |
+| [ex03](ex03/README.md) | Visualize weekly student grades as a horizontal bar chart |
+| [ex04](ex04/README.md) | Frequency analysis of characters displayed as a vertical histogram |
+| [ex05](ex05/README.md) | MVP class timetable with student registration, scheduling, and attendance |
  
