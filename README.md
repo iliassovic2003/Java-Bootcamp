@@ -30,16 +30,16 @@ Each exercise folder contains:
  
 | Day | Theme |
 |-----|-------|
-| Day 01 | Primitive types, I/O, Strings, Arrays |
-| Day 02 | OOP, Collections |
-| Day 03 | IO package, Files |
+| Day 00 | Primitive types, I/O, Strings, Arrays |
+| Day 01 | OOP, Collections |
+| Day 02 | IO package, Files |
+| Day 03 | *(coming soon)* |
 | Day 04 | *(coming soon)* |
 | Day 05 | *(coming soon)* |
 | Day 06 | *(coming soon)* |
 | Day 07 | *(coming soon)* |
 | Day 08 | *(coming soon)* |
 | Day 09 | *(coming soon)* |
-| Day 10 | *(coming soon)* |
  
 
 ---
