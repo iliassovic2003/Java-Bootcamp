@@ -33,7 +33,7 @@ Each exercise folder contains:
 | Day 00 | Primitive types, I/O, Strings, Arrays |
 | Day 01 | OOP, Collections |
 | Day 02 | IO package, Files |
-| Day 03 | *(coming soon)* |
+| Day 03 | Threads |
 | Day 04 | *(coming soon)* |
 | Day 05 | *(coming soon)* |
 | Day 06 | *(coming soon)* |
